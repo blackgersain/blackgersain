@@ -74,3 +74,5 @@ For my professional experience, projects, and career history:
 **[HackerRank](https://www.hackerrank.com/profile/blackgersain)**
 
 **[NPM](https://www.npmjs.com/~blackgersain)**
+
+**[Stack Overflow](https://stackoverflow.com/users/7474147/gersain-casta%c3%b1eda-mu%c3%b1oz)**
