@@ -69,4 +69,4 @@ I’m particularly interested in:
 
 For my professional experience, projects, and career history:
 
-**[LinkedIn](https://www.linkedin.com/in/blackgersain/)**
+**[LinkedIn](https://www.linkedin.com/in/gersain-casta%C3%B1eda-mu%C3%B1oz-9b866810b/)**
