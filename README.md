@@ -7,7 +7,7 @@ Software engineer with **12+ years of professional experience** building robust,
 My experience covers backend, frontend, middleware, mobile, and IoT, from defining architecture and technology stacks to building, validating, deploying, and operating production systems.
 
 > 🔒 **A Note on Public Repositories:**  
-> The vast majority of my architectural work, system design, and production codebases over the last 12+ years reside in proprietary, private-sector enterprise repositories. Consequently, my public GitHub profile focuses on architectural proofs-of-concept, open-source utilities, and personal technical explorations. For a detailed view of my production track record and corporate achievements, feel free to review my **[LinkedIn Profile](https://www.linkedin.com/in/gersain-casta%C3%B1eda-mu%C3%B1oz-9b866810b/)**.
+> The vast majority of my architectural work, system design, and production codebases over the last 10+ years reside in proprietary, private-sector enterprise repositories. Consequently, my public GitHub profile focuses on architectural proofs-of-concept, open-source utilities, and personal technical explorations. For a detailed view of my production track record and corporate achievements, feel free to review my **[LinkedIn Profile](https://www.linkedin.com/in/gersain-casta%C3%B1eda-mu%C3%B1oz-9b866810b/)**.
 
 ---
 
