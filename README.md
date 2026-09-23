@@ -73,4 +73,4 @@ For my professional experience, projects, and career history:
 
 **[HackerRank](https://www.hackerrank.com/profile/blackgersain)**
 
-**[npm](https://www.npmjs.com/~blackgersain)**
+**[NPM](https://www.npmjs.com/~blackgersain)**
